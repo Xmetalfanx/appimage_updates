@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # config file
+
+clear
 . configs/appimage.cfg
 . configs/specifics/appimage_apps.cfg
 
-clear
 
 function get_git_release_page() {
     echo "Getting Release page info"
@@ -13,3 +14,4 @@ function get_git_release_page() {
 
 bitwarden_check_update
 freetube_check_update
+ungoogle_chromium_update
