@@ -3,9 +3,8 @@
 # config file
 
 # clear
-. configs/appimage.cfg
+. configs/appimage_loop.cfg
 . configs/specifics/appimage_apps.cfg
-
 
 
 function userPrompt() {
