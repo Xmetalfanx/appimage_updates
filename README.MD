@@ -1,5 +1,11 @@
 # AppImage Updating
 
+## Current Status: November 2026
+
+There is no point to this anymore after finding [AM Application Manager](https://github.com/ivan-hc/AM)
+
+This will be archived
+
 ## Project DOA?
 
 While i still have ideas for this project, if i cant curl github downloads (needs js now).... say to get a project's latest AppImage file ...part of this project may be "dead in the water".
